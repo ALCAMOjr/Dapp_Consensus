@@ -1,0 +1,10 @@
+/home/alfredo/Escritorio/Rust/proyect_app/target/debug/deps/libcrunchy-ea8e4cba24c531cf.rmeta: /home/alfredo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crunchy-0.2.2/src/lib.rs /home/alfredo/Escritorio/Rust/proyect_app/target/debug/build/crunchy-edf278ccbb12461e/out/lib.rs
+
+/home/alfredo/Escritorio/Rust/proyect_app/target/debug/deps/libcrunchy-ea8e4cba24c531cf.rlib: /home/alfredo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crunchy-0.2.2/src/lib.rs /home/alfredo/Escritorio/Rust/proyect_app/target/debug/build/crunchy-edf278ccbb12461e/out/lib.rs
+
+/home/alfredo/Escritorio/Rust/proyect_app/target/debug/deps/crunchy-ea8e4cba24c531cf.d: /home/alfredo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crunchy-0.2.2/src/lib.rs /home/alfredo/Escritorio/Rust/proyect_app/target/debug/build/crunchy-edf278ccbb12461e/out/lib.rs
+
+/home/alfredo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crunchy-0.2.2/src/lib.rs:
+/home/alfredo/Escritorio/Rust/proyect_app/target/debug/build/crunchy-edf278ccbb12461e/out/lib.rs:
+
+# env-dep:OUT_DIR=/home/alfredo/Escritorio/Rust/proyect_app/target/debug/build/crunchy-edf278ccbb12461e/out

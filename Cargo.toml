@@ -1,0 +1,4 @@
+[workspace]
+members = [
+    "src/proyect_app_backend",
+]
